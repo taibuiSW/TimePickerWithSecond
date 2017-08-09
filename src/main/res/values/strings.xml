@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimePickerWithSecond</string>
+    <string name="radio_btn_label_AM">AM</string>
+    <string name="radio_btn_label_PM">PM</string>
+    <string name="time_set">Set time</string>
+    <string name="cancel">Cancel</string>
+</resources>
